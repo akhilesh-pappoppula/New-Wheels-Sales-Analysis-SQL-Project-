@@ -18,7 +18,6 @@ Data Aggregation
 Business Analysis
 
 🔹 Dataset Overview
-
 The database contains:
 Customer information
 Orders data
